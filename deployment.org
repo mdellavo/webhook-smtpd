@@ -1,0 +1,4 @@
+* OVERVIEW
+
+  - fire up instance via boto
+  - deploy code

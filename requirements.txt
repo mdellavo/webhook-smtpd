@@ -1,0 +1,5 @@
+ipython
+git+git://github.com/mdellavo/athanor.git#egg=athanor
+gevent
+pyramid
+pytz
